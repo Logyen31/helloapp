@@ -6,7 +6,17 @@ namespace HelloAppBlack
     {
         static void Main()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyone");
+        }
+
+        static void GreetWhite()
+        {
+            Console.WriteLine("hello white");
+        }
+
+        static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
         }
     }
 }
